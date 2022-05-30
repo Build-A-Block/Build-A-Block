@@ -8,5 +8,3 @@ Symbol: BUILD
 0xCDC491Ef9A9ccBb3D00b15Af252d050700F813F3
 
 https://build-a-block.com/
-https://t.me/buildablocktoken
-https://twitter.com/BuildBlockToken
