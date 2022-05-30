@@ -1,0 +1,33 @@
+Name: Build-A-Block
+Symblol: BUILD
+Contract: 0xCDC491Ef9A9ccBb3D00b15Af252d050700F813F3
+Binance Smart Chain
+https://bscscan.com/token/0xcdc491ef9a9ccbb3d00b15af252d050700f813f3
+https://pancakeswap.finance/swap?outputCurrency=0xCDC491Ef9A9ccBb3D00b15Af252d050700F813F3
+
+Supply: 1,000,000,000
+Launch Date: May-26-2022 04:46:04 PM UTC
+
+
+Description:
+Build-a-Block Token is the foundation of the Build-a-Block Network, a DeFi application and blockchain technology development service. Build- a-Block offers affordable development services to developers who wish to add or create utility for their token or blockchain project.These services include, but are not limited to, the development of a variety of decentralized applications, token smart contracts, NFT smart contracts and full yield farm/staking platforms. Payment will be accepted in the form of BUILD Token and BNB/BUSD. The profits collected from these development services will be used to re-buy, solidify and market the Build-a-Block Token itself. Users holding certain numbers of tokens will be eligible to receive rebates and deals on developmental services.
+
+Links:
+https://build-a-block.com/
+https://t.me/buildablocktoken
+https://twitter.com/BuildBlockToken
+https://www.dextools.io/app/bsc/pair-explorer/0x34e84faaa56ba485c57cbeac0580e731b101eb32
+WhitePaper: https://www.buildablocktoken.com/_files/ugd/792637_66cc622875ae4c19b7713ee588163be8.pdf
+
+
+Dapp
+Home: https://buildablockplatformv1.netlify.app/index.html
+Wrapper: https://buildablockplatformv1.netlify.app/wrapper.html
+EasySwap: https://buildablockplatformv1.netlify.app/easyfactory.html
+
+Token Pocket:
+BUILD : https://profile.tokenpocket.pro/?locale=en#/token/613852183
+wBUILD : https://profile.tokenpocket.pro/?locale=en#/token/615971136
+
+Harmony Blockchain Explorer:
+https://explorer.harmony.one/address/0x076b8140a21e4294f24ab2ada7cc86705c25d915
