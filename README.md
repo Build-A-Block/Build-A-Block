@@ -1,4 +1,4 @@
-<!--
+
 **Build-A-Block/Build-A-Block** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Build-a-Block Token is the foundation for the Build-a-Block Network, DeFi application, and Blockchain Technology Development Service, with unique innovative use cases and utility. 
